@@ -18,10 +18,6 @@ Software Engineer who enjoys building reliable and scalable systems.
 | [idmapper](https://github.com/AdiSaripuloh/idmapper) | Go library that maps string identifiers to sequential integer IDs, optimized for bitset operations |
 | [bitmatrix](https://github.com/AdiSaripuloh/bitmatrix) | Go library that zero-overhead 2D bit matrix for flagging at scale with sub-nanosecond lookups      |
 
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdiSaripuloh&show_icons=true&theme=default&hide_border=true&count_private=true)
-
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/adisaripuloh)
