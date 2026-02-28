@@ -1,0 +1,6 @@
+# Ignore everything
+*
+
+# Except README and .gitignore
+!README.md
+!.gitignore
